@@ -20,6 +20,9 @@ Estrutura dos andares da Torre, modos de dificuldade, Chaos Dungeon, como desblo
 ### [Meta de Itens por Classe](meta-itens-por-classe.md)
 Affixes prioritários, gems ideais, rune words e Hearth of Souls meta para cada classe. Inclui builds alternativas do Demon Hunter e regras gerais de endgame.
 
+### [Legendaries e Sets Meta](legendaries-e-sets-meta.md)
+Itens lendários com nome próprio, affixes lendários mais fortes por classe, combos de sinergia (Earth Spike, Purge, Evasão, Dagger) e prioridade geral ao caçar drops.
+
 ---
 
 ## Sobre o Jogo
