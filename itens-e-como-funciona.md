@@ -82,16 +82,18 @@ Dois usos distintos:
 
 **Runes também criam sockets:**
 - Aba de Runes → seleciona o item → adiciona 2 runes → pressiona o botão de criar socket
-- Requer ouro e nível de blessing suficiente
+- Requer ouro e blessing level ~12
+- Máximo de **1 socket criável por item** via Ferreiro — para runeword você precisa de lendário que dropou com 2 sockets nativos
 
 ---
 
 ## Sockets
 
-- Sockets são criados pelo Ferreiro usando runes
+- O Ferreiro pode criar **no máximo 1 socket** por item
 - Cada socket aceita uma Gem ou Jewel
 - **Só vale criar socket em Raro+**
-- Itens com sockets + bons affixes são o objetivo final de equipamento
+- Lendários podem **dropar nativamente com 2 sockets** — esses são raros (~1%) e os únicos que habilitam runeword
+- Runeword via Ferreiro **não é possível** a partir de itens sem socket nativo duplo — 1 socket criado não é suficiente
 
 ---
 
