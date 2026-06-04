@@ -47,13 +47,38 @@ Dois usos distintos:
 - **Legendary Jewels:** adicionam um affix lendário extra ao item (limite de 1 por item)
 
 ### 4. Runes
-Sistema de "rune words" aplicado em itens Lendários.
 
-**Como funciona:**
-- Você coloca o item + 2 runes no Ferreiro e confirma
-- O resultado é um **rune word** que amplifica o affix lendário do item
-- Se o affix pode ser multiplicado por 2 → o resultado geralmente dobra o efeito
-- Se o affix *não* pode ser multiplicado (ex: "Dragon's Breath agora dispara um projétil") → você recebe um **affix misterioso** no lugar
+> **Aviso de prioridade:** o sistema de runas é o menos impactante do jogo no estado atual. A comunidade descreve como "not that great". Entenda o mecanismo, mas não perca tempo farmando runas antes de ter gear e gems sólidos.
+
+**Dois usos distintos — não confunda:**
+
+| Uso | O que faz | Custo |
+|---|---|---|
+| **Criar socket** | Adiciona um socket ao item | 2 runas + ouro + blessing level |
+| **Runeword** | Amplifica o affix lendário do item | 2 runas específicas em item com 2 sockets |
+
+**Como o Runeword funciona:**
+- O item com 2 sockets dita quais runas são necessárias — o jogo te mostra, você não escolhe livremente
+- Affix numérico (pode ser dobrado) → efeito dobra (ex: Magic Find 50% → 100%; +35% dmg por 30s → por 60s)
+- Affix qualitativo (não pode ser dobrado, ex: "Dragon's Breath dispara projétil") → resultado é um **affix misterioso** aleatório — imprevisível, evite
+- Precisa de exatamente **2 runas do tipo correto** — runas têm IDs numéricos e não se acumulam
+
+**Runas conhecidas por nome:**
+`Ehr`, `Mok`, `Gak`, `Eun` — os únicos nomes documentados pela comunidade. Não existe lista pública completa de todas as runas e seus efeitos específicos.
+
+**Runewords confirmados pela comunidade:**
+- **Chain Lightning Runeword** — amplifica Chain Lightning
+- **Sparking Balls** (Ball Lightning) — amplifica Ball Lightning
+
+**Drop de runas:**
+- Taxa de drop geral é baixa — considere escassa até o mid game
+- **Chaos Dungeon** é a melhor fonte de runas
+- Lendário com 2 sockets dropa em ~1% dos casos — o gargalo real do sistema
+
+**Resumo prático:**
+1. Use runas sobrando para **criar sockets** em lendários bons que não vieram com socket
+2. Só invista em runeword se tiver um lendário com 2 sockets E affix numérico forte E as runas corretas sobrando
+3. Nunca gaste runas em itens não-lendários
 
 **Runes também criam sockets:**
 - Aba de Runes → seleciona o item → adiciona 2 runes → pressiona o botão de criar socket
